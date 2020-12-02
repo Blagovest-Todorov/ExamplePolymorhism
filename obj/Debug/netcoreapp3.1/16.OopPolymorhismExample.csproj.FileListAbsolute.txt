@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\OOP\16.OopPolymorhismExample\bin\Debug\netcoreapp3.1\16.OopPolymorhismExample.exe
+C:\Users\Bla\source\repos\OOP\16.OopPolymorhismExample\bin\Debug\netcoreapp3.1\16.OopPolymorhismExample.deps.json
+C:\Users\Bla\source\repos\OOP\16.OopPolymorhismExample\bin\Debug\netcoreapp3.1\16.OopPolymorhismExample.runtimeconfig.json
+C:\Users\Bla\source\repos\OOP\16.OopPolymorhismExample\bin\Debug\netcoreapp3.1\16.OopPolymorhismExample.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\OOP\16.OopPolymorhismExample\bin\Debug\netcoreapp3.1\16.OopPolymorhismExample.dll
+C:\Users\Bla\source\repos\OOP\16.OopPolymorhismExample\bin\Debug\netcoreapp3.1\16.OopPolymorhismExample.pdb
+C:\Users\Bla\source\repos\OOP\16.OopPolymorhismExample\obj\Debug\netcoreapp3.1\16.OopPolymorhismExample.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\OOP\16.OopPolymorhismExample\obj\Debug\netcoreapp3.1\16.OopPolymorhismExample.AssemblyInfo.cs
+C:\Users\Bla\source\repos\OOP\16.OopPolymorhismExample\obj\Debug\netcoreapp3.1\16.OopPolymorhismExample.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\OOP\16.OopPolymorhismExample\obj\Debug\netcoreapp3.1\16.OopPolymorhismExample.dll
+C:\Users\Bla\source\repos\OOP\16.OopPolymorhismExample\obj\Debug\netcoreapp3.1\16.OopPolymorhismExample.pdb
+C:\Users\Bla\source\repos\OOP\16.OopPolymorhismExample\obj\Debug\netcoreapp3.1\16.OopPolymorhismExample.genruntimeconfig.cache
